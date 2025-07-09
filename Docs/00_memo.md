@@ -61,6 +61,8 @@
     - アクターネットワーク理論
     - ポストヒューマン的な視座を取り入れた時間地理学の提案
       - 日常的なモノ・機械の相互関係を3つの制約で考えることはできるのか？
+  - 研究活動対象にするのはどうか？
+    - とくにフィールドワーク
 - 科学技術・研究者関連のオープンデータ
   - <https://www.e-stat.go.jp/stat-search?page=1&bunya_l=11>
     - <https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200543&bunya_l=11&tstat=000001032090>
