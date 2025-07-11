@@ -1,6 +1,6 @@
 # memo
 
-- 論文メモ
+- 論文・書籍メモ
   - Satellite data, information, or knowledge? Critiquing how Arctic environmental NGOs derive meaning and power from imagery
     - <https://www.sciencedirect.com/science/article/pii/S2666378325000054>
     - 衛星画像はデータ、情報、知識にどうやってなっていくのか？的な内容
@@ -95,6 +95,9 @@
   - フィールド調査に制限が掛かっている
 - リヴィングストンの『科学の地理学』はDIKWモデルの視点がない、もしくわ知識に統一している
   - 知識までの変遷過程を見るのはどうか？
+- 地理学は地球以外の惑星を対象とした研究をすべきか？また可能なのか？
+  - 火星を地理学的にみることは可能なのか？
+  - 人文地理学の立場は？
 
 ---
 
