@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C4Mxb2fjmYQctF3x9zz_" name="ページ1">
-        <mxGraphModel dx="1793" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1160" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
                 <mxCell id="8" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 51px;&quot;&gt;私生活&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 51px;&quot;&gt;（自己完結）&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=32;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);strokeWidth=3;" parent="1" vertex="1">
                     <mxGeometry x="1037.5" y="180" width="300" height="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);fillColor=default;" parent="1" edge="1">
+                <mxCell id="9" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#FF0000,#000000);fillColor=#FF0000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="507.5" y="250" as="sourcePoint"/>
                         <mxPoint x="1027.5" y="250" as="targetPoint"/>
@@ -59,7 +59,7 @@
                 <mxCell id="15" value="&lt;span style=&quot;font-size: 51px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;私生活&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 51px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;（他者介入）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=3;" parent="1" vertex="1">
                     <mxGeometry x="1027.5" y="605" width="310" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#000000,#FF0000);fillColor=light-dark(#FFFFFF,#FF0000);" parent="1" edge="1">
+                <mxCell id="16" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#FF0000,#FF0000);fillColor=light-dark(#FF0000,#FF0000);" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="480" y="350" as="sourcePoint"/>
                         <mxPoint x="1010" y="630" as="targetPoint"/>
@@ -70,7 +70,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#000000,#FF0000);fillColor=light-dark(#FFFFFF,#FF0000);entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="13" edge="1">
+                <mxCell id="17" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#FF0000,#FF0000);fillColor=light-dark(#FF0000,#FF0000);entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="13" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="384" y="370" as="sourcePoint"/>
                         <mxPoint x="920" y="370" as="targetPoint"/>
@@ -81,7 +81,7 @@
                         <mxPoint y="-1" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#000000,#FF0000);fillColor=light-dark(#FFFFFF,#FF0000);entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="14" edge="1">
+                <mxCell id="18" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=light-dark(#FF0000,#FF0000);fillColor=light-dark(#FF0000,#FF0000);entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="14" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="360" as="sourcePoint"/>
                         <mxPoint x="792.5" y="620" as="targetPoint"/>
