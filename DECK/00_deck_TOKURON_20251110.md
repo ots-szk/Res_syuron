@@ -28,3 +28,23 @@ M1 大塚静空
   - Springer Science & Business Media
 - その他（巻号など）
   - *Knowledge and Space* vol.3
+
+</div>
+
+---
+
+## この本を選んだ経緯
+
+- 自身の研究の学問的（もしくは理論的？）な位置づけとして「科学の地理学（Geographies of Science）」を学びたいから
+
+---
+
+## 文化地理学的か？
+
+---
+
+## 科学の地理学とは？
+
+---
+
+## 序文：Interdisciplinary Geographies of Science
