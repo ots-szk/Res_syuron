@@ -1,0 +1,94 @@
+/*
+    @theme tmu
+    @auto-scaling true
+ */
+
+@import "default";
+
+.red{color: red;}
+
+.center{text-align: center}
+
+.font18{font-size: 18pt;}
+
+.font19{font-size: 19pt;}
+
+.font20{font-size: 20pt;}
+
+.font21{font-size: 21pt;}
+
+.font22{font-size: 22pt;}
+
+.font23{font-size: 23pt;}
+
+.font24{font-size: 24pt;}
+
+.font25{font-size: 25pt;}
+
+.font26{font-size: 26pt;}
+
+.font27{font-size: 27pt;}
+
+.font28{font-size: 28pt;}
+
+.font29{font-size: 29pt;}
+
+.font30{font-size: 30pt;}
+
+h1{color: rgb(67, 102, 176)}
+
+h2 {
+    position: absolute;   /* スライド上部に固定 */
+    top: 0;              /* 上端に配置 */
+    left: 50%;           /* 中央揃え */
+    transform: translateX(-50%);
+    width: 100%;         /* 幅いっぱいにする */
+    text-align: center;  /* 文字を中央揃え */
+    color: rgb(0, 0, 0);        /* 文字の色 */
+    padding: 10px 0;     /* 上下の余白 */
+    margin: 0;           /* デフォルトの余白をなくす */
+    font-size: 25pt;     /* フォントサイズを調整 */
+    border-top: 5px solid rgb(67, 102, 176);
+    border-bottom: 5px solid rgb(67, 102, 176); /* 下線（青） */
+    /* box-shadow: 0 3px 0 rgba(0, 0, 0, 0.2); */
+}
+
+h3 {
+    display: inline-block;
+    border-bottom: 3px solid rgb(67, 102, 176);
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+section::after {
+    position: absolute;
+    right: 10px;
+    bottom: 0px;
+    width: 40px;
+    height: 50px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 0.7px white;
+    font-size: 25pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../Custom/Symbol/Symbol_TMU_012.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    z-index: 1;
+}
+
+section img.top-right {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 120px;     /* 画像サイズ調整 */
+    z-index: 10;
+}
+
