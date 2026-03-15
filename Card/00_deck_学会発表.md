@@ -1,6 +1,7 @@
 ---
 marp : true
 theme : tmu
+paginate : true
 ---
 
 <div class=font30>
@@ -65,6 +66,8 @@ theme : tmu
 
 ---
 
+## 日本の科学に関する現状
+
 ### 科学力低下の要因
 
 <div class = font25>（Ex）
@@ -81,7 +84,7 @@ etc...
 
 ---
 
-<!-- ## 日本の科学に関する現状 -->
+## 本発表の目的
 
 <div class = font25>
 
@@ -92,6 +95,8 @@ etc...
 
 ---
 
+## 本発表の目的
+
 <div class = font25>
 
 前出したような問題を解決・解消するには、
@@ -101,6 +106,6 @@ etc...
 
 **科学社会学（Sociology of Science ( and Technology)）**
 
-⇒次第に**科学と空間・場所の関係性**に注目されるように
+⇒欧米では次第に**科学と空間・場所の関係性**が注目されるように
 
 ---
