@@ -127,16 +127,17 @@ etc...
 
 ![height:630](../Figure/fig_科学の地理学の歴史.png)
 
-<!-- todo 科学論をサイエンス・スタディーズに変更 -->
+<!-- todo 科学論をサイエンス・スタディーズに変更 、年号の黒枠を外す-->
 
 ---
 
 ### 1960年～1990年代
 
-<div class = font20>
+<div class = font21>
 
 - サイエンス・スタディーズの中でも、特に**科学知識の社会学（Sociology of Scientific Knowledge（以後、SSK））** という分野で、空間的視点の重要性について語られるようになった。
 - SSKでは近代科学における**科学知識を対象にイデオロギー分析**をおこなう研究が有名であり、そうした研究を通じて**どこで科学をするのか**が重要な意味を持っていることを明らかにした。
+- > しかし、単なる『公共性』ならこの目撃および保証の機能を果たすわけではない。…紳士の邸宅の公的な部屋の中で行われる多くの新しい実験的実践と議論の状況は、信頼の問題に対する実践的な解決策として、紳士的行動の規範を効果的に動員した。紳士の誠実さとその社会的関係が、彼らの邸宅から生まれる知識の信頼性に対する実践的な保証となった。（Ophir and Shapin　1991，p11）
 
 <!--
 ### SSK
@@ -145,27 +146,24 @@ etc...
   - 全ての科学知識は時代状況や特定の社会集団の利害関心などを反映して構築されているという考え方
 - 近代科学における**科学知識を対象にイデオロギー分析**をおこなう -->
 
-> しかし、単なる『公共性』ならこの目撃および保証の機能を果たすわけではない。…紳士の邸宅の公的な部屋の中で行われる多くの新しい実験的実践と議論の状況は、信頼の問題に対する実践的な解決策として、紳士的行動の規範を効果的に動員した。紳士の誠実さとその社会的関係が、彼らの邸宅から生まれる知識の信頼性に対する実践的な保証となった。（Ophir and Shapin　1991，p11）
-
 <!-- “But not just any 'public' would serve this witnessing and warranting function. … the situation of much new experimental practice and discourse in the public rooms of gentlemen's houses effectively mobilized the codes of gentlemanly conduct as practical solutions to the problem of trust. The integrity of gentlemen and their social relations served as a practical voucher of the reliability of the knowledge issuing from their houses -->
 
 ---
 
-### 科学の地理学の代表的な書籍
+<div class = font19>
 
-<div class = font18>
+### 1995年
 
-- 『Putting Science in its Place : Geographies of Scientific Knowledge』
-- 著者：**David N. Livingstone**
-- 出版年：2003年
-- 特徴
-  - サイエンス・スタディーズにおける**地理学的転回**を目指す
-  - **科学のローカル性**に焦点を当てる
-  - **歴史事例**を基に議論を進める
-- 備考
-  - 引用数はこの著作の方が多い
-  - 2014年に『科学の地理学 ー場所が問題となるときー』として邦訳
+- D.N．Livingstoneが執筆した「**The Spaces of Knowledge: Contributions towards a Historical Geography of Science**」という論文において、科学の地理学は提唱された。
+- 内容としては、フーコーやサイード、ギアツ、ギデンズ、ハラウェイ、ラトゥールなどの著作を概観した上で、彼らの思想を基に科学や知識と場所の関係の問題を検討するものである（リヴィングストン 2014:242、Meusburger et.al. 2010:x）。
 
-</div>
+### 2003年
 
-![bg left 70%](../Figure/fig_科学の地理学の表紙.png)
+- D.N．Livingstoneが『**Putting Science in its Place : Geographies of Scientific Knowledge**』を出版する。→2014年に邦訳が出版される
+- サイエンス・スタディーズにおける**地理学的転回**を目指したもので、主に近代科学の**歴史事例**を基に議論を展開したものである。
+- 引用数は1995年の論文よりも多く、科学の地理学における代表的な文献であるといえる。
+
+<!-- ![bg left 80%](../Figure/fig_科学の地理学の表紙.png) -->
+
+---
+
