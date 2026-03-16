@@ -133,6 +133,10 @@ etc...
 
 サイエンス・スタディーズの中でも、特に**学知識の社会学（Sociology of Scientific Knowledge（以後、SSK））** という分野で、空間的視点の重要性について語られるようになった。
 
+> しかし、単なる『公共性』ならこの目撃および保証の機能を果たすわけではない。…紳士の邸宅の公的な部屋の中で行われる多くの新しい実験的実践と議論の状況は、信頼の問題に対する実践的な解決策として、紳士的行動の規範を効果的に動員した。紳士の誠実さとその社会的関係が、彼らの邸宅から生まれる知識の信頼性に対する実践的な保証となった。（Ophir and Shapin　1991，p11）
+
+<!-- “But not just any 'public' would serve this witnessing and warranting function. … the situation of much new experimental practice and discourse in the public rooms of gentlemen's houses effectively mobilized the codes of gentlemanly conduct as practical solutions to the problem of trust. The integrity of gentlemen and their social relations served as a practical voucher of the reliability of the knowledge issuing from their houses -->
+
 ---
 
 ### 科学の地理学の代表的な書籍
